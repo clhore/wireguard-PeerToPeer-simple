@@ -1,4 +1,4 @@
-module github.com/clhore/wgp2p
+module github.com/clhore/wireguard-PeerToPeer-simple
 
 go 1.24.1
 
